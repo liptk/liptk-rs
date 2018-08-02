@@ -9,3 +9,7 @@ keywords = ["cryptography"]
 authors = ["avitex <theavitex@gmail.com>"]
 
 [dependencies]
+
+byteorder = "1"
+untrusted = "^0.6"
+error-chain = "^0.12"
