@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="./logo.svg" alt="LIPTK-RS" />
+    <img height="100" src="./logo.svg" alt="LIPTK-RS" />
     <br />
     <strong>Lightweight tools for the cryptic!</strong>
 </p>
