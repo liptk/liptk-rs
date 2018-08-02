@@ -1,0 +1,11 @@
+[package]
+name = "liptk"
+description = "Lightweight Identity & Privacy Toolkit"
+version = "0.1.0"
+license = "MIT"
+homepage = "https://liptk.github.io"
+repository = "https://github.com/liptk/liptk-rs"
+keywords = ["cryptography"]
+authors = ["avitex <theavitex@gmail.com>"]
+
+[dependencies]
